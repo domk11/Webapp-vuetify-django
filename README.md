@@ -1,4 +1,17 @@
-# app1
+# Dirty functioning template
+
+## Instructions:
+### go to proj directory
+### pipenv install --dev && pipenv shell
+### python manage.py migrate
+
+## Run development server
+
+## python manage.py runserver
+
+## probably it will be necessary to do:
+### pip uninstall whitenoise
+### pip install whitenoise
 
 ## Project setup
 ```
